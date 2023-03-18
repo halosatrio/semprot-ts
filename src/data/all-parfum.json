@@ -1,0 +1,146 @@
+[
+  {
+    "id": "hmns-001",
+    "slug": "hmns-orgasm",
+    "name": "Orgasm",
+    "brand": "HMNS Perfume",
+    "type": "for her",
+    "concentrate": "Eau de Parfume (EDP)",
+    "notes": {
+      "top": "Apple",
+      "middle": "Rose, Jasmine, Peony",
+      "base": "Amber & Vanilla Beans"
+    },
+    "longevity": "6 hours",
+    "sillage": "Medium",
+    "projection": "2 meters",
+    "image": "/images/hmns-orgasm.webp",
+    "link": "https://madeforhmns.com/collections/all/products/orgasm-100ml"
+  },
+  {
+    "id": "hmns-002",
+    "slug": "hmns-farhampton",
+    "name": "Farhampton",
+    "brand": "HMNS Perfume",
+    "type": "unisex",
+    "concentrate": "Eau de Parfume (EDP)",
+    "notes": {
+      "top": "Bergamot",
+      "middle": "Lavender & Orange Blossom Flowers",
+      "base": "Labdanum (amber), Cedarwood, and Tonka Bean"
+    },
+    "longevity": "6-8 hours",
+    "sillage": "Moderate to heavy",
+    "projection": "2 meters",
+    "image": "/images/hmns-farhampton.webp",
+    "link": "https://madeforhmns.com/collections/all/products/farhampton-100ml-extrait-de-parfum"
+  },
+  {
+    "id": "hmns-003",
+    "slug": "hmns-perfection",
+    "name": "The Perfection",
+    "brand": "HMNS Perfume",
+    "type": "for him",
+    "concentrate": "Eau de Parfume (EDP)",
+    "notes": {
+      "top": "Bergamot, Elemi, Indonesian Clove (Cengkeh), Nutmeg",
+      "middle": "Lavender, Tagetes, Lily of the Valley, Green Pear",
+      "base": "Driftwood, Sandalwood, Leather, Musky"
+    },
+    "longevity": "4-6 hours (we suggest to re-spray every 6 hours for optimal result)",
+    "sillage": "Medium",
+    "projection": "2 meters",
+    "image": "/images/hmns-perfection.webp",
+    "link": "https://madeforhmns.com/collections/all/products/hmns-perfume-the-perfection"
+  },
+  {
+    "id": "hmns-004",
+    "slug": "hmns-unrosed",
+    "name": "Unrosed",
+    "brand": "HMNS Perfume",
+    "type": "for her",
+    "concentrate": "Eau de Parfume (EDP)",
+    "notes": {
+      "top": "-",
+      "middle": "-",
+      "base": "Rose Accord"
+    },
+    "longevity": "5 - 7 hours",
+    "sillage": "Medium",
+    "projection": "1 - 1.5 meters",
+    "image": "/images/hmns-unrosed.webp",
+    "link": "https://madeforhmns.com/collections/all/products/hmns-perfume-unrosed"
+  },
+  {
+    "id": "hmns-005",
+    "slug": "hmns-eos",
+    "name": "Essence of the Sun (EoS)",
+    "brand": "HMNS Perfume",
+    "type": "for her",
+    "concentrate": "Eau de Parfume (EDP)",
+    "notes": {
+      "top": "Bergamot, Coriander Seeds, Pink Pepper",
+      "middle": "Indian Jasmine Sambac, Turkish Rose, Tiare Flower & Solar Accord",
+      "base": "Tonka Bean, Ambrette, Cedarwood"
+    },
+    "longevity": "7 hours",
+    "sillage": "Moderate to heavy",
+    "projection": "2 meters",
+    "image": "/images/hmns-eos.webp",
+    "link": "https://madeforhmns.com/collections/all/products/essence-of-the-sun-eos-100ml-edp"
+  },
+  {
+    "id": "hmns-006",
+    "slug": "hmns-darker-orgasm-edp",
+    "name": "Darker Shades of Orgasm Eau De Parfum",
+    "brand": "HMNS Perfume",
+    "type": "for her",
+    "concentrate": "Eau de Parfume (EDP)",
+    "notes": {
+      "top": "Orange Blossom, Apple, and Pepper",
+      "middle": "Cypriol, Caramel, and Patchouli",
+      "base": "Vanilla Beans, Cedarwood, Amber, and Vetiver"
+    },
+    "longevity": "5 - 6 hours",
+    "sillage": "medium",
+    "projection": "1.5 meters",
+    "image": "/images/hmns-darker-orgasm-edp.webp",
+    "link": "https://madeforhmns.com/collections/all/products/hmns-perfume-darker-shades-of-orgasm-eau-de-parfum"
+  },
+  {
+    "id": "hmns-007",
+    "slug": "hmns-ambar-janma",
+    "name": "Ambar Janma - Manusia Harum",
+    "brand": "HMNS Perfume",
+    "type": "unisex",
+    "concentrate": "Eau de Parfume (EDP)",
+    "notes": {
+      "top": "Bulgarian Rose, Neroli, Pink Pepper, Lily of The Valley and Black Tea",
+      "middle": "-",
+      "base": "Sandalwood, Amberwood, Suede, and Gayo Patchouli"
+    },
+    "longevity": "7-8 hours (we suggest to re-spray Janma after 4 hours)",
+    "sillage": "-",
+    "projection": "4-6 meters",
+    "image": "/images/hmns-ambar-janma.webp",
+    "link": "https://madeforhmns.com/collections/all/products/hmns-perfume-ambar-janma-manusia-harum"
+  },
+  {
+    "id": "hmns-008",
+    "slug": "hmns-orgasm-absolute",
+    "name": "Absolute Orgsm Eau De Parfum",
+    "brand": "HMNS Perfume",
+    "type": "for her",
+    "concentrate": "Eau de Parfume (EDP)",
+    "notes": {
+      "top": "Orange Blossom, Apple, Lemon, and Pear",
+      "middle": "Rose, Jasmine, Peony, and Caramel",
+      "base": "Vanilla Beans, Patchouli, Amber, and Tonka"
+    },
+    "longevity": "4 - 5 hours",
+    "sillage": "medium",
+    "projection": "2 meters",
+    "image": "/images/hmns-orgasm-absolute.webp",
+    "link": "https://madeforhmns.com/collections/all/products/hmns-perfume-absolute-orgsm-eau-de-parfum"
+  }
+]
