@@ -1,0 +1,200 @@
+[
+  {
+    "id": "saffco-001",
+    "slug": "saffco-troupe",
+    "name": "TROUPE",
+    "brand": "SAFF & Co",
+    "type": "for her",
+    "concentrate": "Extrait de Parfum",
+    "notes": {
+      "top": "Citrus/Fresh, Pear",
+      "middle": "Rose, Orange Blossom, Freesia",
+      "base": "Patchouli, Musky, Amber"
+    },
+    "longevity": "6 hours",
+    "sillage": "Strong",
+    "projection": "-",
+    "image": "/images/saffco-troupe.jpg",
+    "link": "https://www.tokopedia.com/saffnco/saff-co-extrait-de-parfum-troupe"
+  },
+  {
+    "id": "saffco-002",
+    "slug": "saffco-coco",
+    "name": "COCO",
+    "brand": "SAFF & Co",
+    "type": "unisex",
+    "concentrate": "Extrait de Parfum",
+    "notes": {
+      "top": "Citrus, Floral, Green",
+      "middle": "Marine, Woody",
+      "base": "Musky, Oriental"
+    },
+    "longevity": "6 hours",
+    "sillage": "Strong",
+    "projection": "-",
+    "image": "/images/saffco-coco.jpg",
+    "link": "https://www.tokopedia.com/saffnco/saff-co-extrait-de-parfum-coco"
+  },
+  {
+    "id": "saffco-003",
+    "slug": "saffco-loui",
+    "name": "LOUI",
+    "brand": "SAFF & Co",
+    "type": "unisex",
+    "concentrate": "Extrait de Parfum",
+    "notes": {
+      "top": "Verbena, Green, Aldehydic",
+      "middle": "Rose, Peony, Lily of the Valley",
+      "base": "Cedarwood, Musk"
+    },
+    "longevity": "6 hours",
+    "sillage": "Strong",
+    "projection": "-",
+    "image": "/images/saffco-loui.jpeg",
+    "link": "https://www.tokopedia.com/saffnco/saff-co-extrait-de-parfum-loui"
+  },
+  {
+    "id": "saffco-004",
+    "slug": "saffco-504",
+    "name": "540",
+    "brand": "SAFF & Co",
+    "type": "unisex",
+    "concentrate": "Extrait de Parfum",
+    "notes": {
+      "top": "Citrus, Floral, Sweet",
+      "middle": "Woody, Tagette, Amber",
+      "base": "Oakmoss, Ambergris, Sugary"
+    },
+    "longevity": "6 hours",
+    "sillage": "Strong",
+    "projection": "-",
+    "image": "/images/saffco-504.jpg",
+    "link": "https://www.tokopedia.com/saffnco/saff-co-extrait-de-parfum-540"
+  },
+  {
+    "id": "saffco-005",
+    "slug": "saffco-omnia",
+    "name": "OMNIA",
+    "brand": "SAFF & Co",
+    "type": "unisex",
+    "concentrate": "Extrait de Parfum",
+    "notes": {
+      "top": "Grapefruit, Green Notes",
+      "middle": "Rose, Floral, Iris",
+      "base": "Woody, Heliotrope, Musk"
+    },
+    "longevity": "6 hours",
+    "sillage": "Strong",
+    "projection": "-",
+    "image": "/images/saffco-omnia.jpg",
+    "link": "https://www.tokopedia.com/saffnco/saff-co-extrait-de-parfum-omnia"
+  },
+  {
+    "id": "saffco-006",
+    "slug": "saffco-chno",
+    "name": "CHNO",
+    "brand": "SAFF & Co",
+    "type": "for her",
+    "concentrate": "Extrait de Parfum",
+    "notes": {
+      "top": "Pink pepper, Orange blossom, Pear",
+      "middle": "Coffee, Jasmin, Bitter almond, Licorice",
+      "base": "Vanilla, Patchouli, Cedar, Cashmere wood"
+    },
+    "longevity": "6 hours",
+    "sillage": "Strong",
+    "projection": "-",
+    "image": "/images/saffco-chno.jpg",
+    "link": "https://www.tokopedia.com/saffnco/saff-co-extrait-de-parfum-chno"
+  },
+  {
+    "id": "saffco-007",
+    "slug": "saffco-shaff",
+    "name": "SAFF",
+    "brand": "SAFF & Co",
+    "type": "for him",
+    "concentrate": "Extrait de Parfum",
+    "notes": {
+      "top": "Bergamot, Mandarin, Saffron",
+      "middle": "Ylang, Lily of the valley, Jasmine/White Floral",
+      "base": "Dryamber, Leathery, Musk"
+    },
+    "longevity": "6 hours",
+    "sillage": "Strong",
+    "projection": "-",
+    "image": "/images/saffco-shaff.jpg",
+    "link": "https://www.tokopedia.com/saffnco/saff-co-extrait-de-parfum-saff"
+  },
+  {
+    "id": "saffco-008",
+    "slug": "saffco-sotb",
+    "name": "S.O.T.B",
+    "brand": "SAFF & Co",
+    "type": "for her",
+    "concentrate": "Extrait de Parfum",
+    "notes": {
+      "top": "Mandarin, Galbanum, Ylang",
+      "middle": "Tuberose, Jasmine, Orange flower",
+      "base": "Vanilla, Tonka bean, Musk"
+    },
+    "longevity": "6 hours",
+    "sillage": "Strong",
+    "projection": "-",
+    "image": "/images/saffco-sotb.jpeg",
+    "link": "https://www.tokopedia.com/saffnco/saff-co-extrait-de-parfum-s-o-t-b"
+  },
+  {
+    "id": "saffco-009",
+    "slug": "saffco-ostara",
+    "name": "OSTARA",
+    "brand": "SAFF & Co",
+    "type": "unisex",
+    "concentrate": "Extrait de Parfum",
+    "notes": {
+      "top": "Raspberry. Passionfruit, Pear",
+      "middle": "Cassis Buds, Lily of the Valley",
+      "base": "Amber, Patchouli, Heliotrope"
+    },
+    "longevity": "6 hours",
+    "sillage": "Strong",
+    "projection": "-",
+    "image": "/images/saffco-ostara.jpeg",
+    "link": "https://www.tokopedia.com/saffnco/saff-co-extrait-de-parfum-ostara"
+  },
+  {
+    "id": "saffco-010",
+    "slug": "saffco-solaris",
+    "name": "SOLARIS",
+    "brand": "SAFF & Co",
+    "type": "unisex",
+    "concentrate": "Extrait de Parfum",
+    "notes": {
+      "top": "Bergamot, Mandarin, Violet Leaves",
+      "middle": "Orris, Freesia, Cedarwood",
+      "base": "Vetiver, Amber, Tonka Bean"
+    },
+    "longevity": "6 hours",
+    "sillage": "Strong",
+    "projection": "-",
+    "image": "/images/saffco-solaris.jpeg",
+    "link": "https://www.tokopedia.com/saffnco/saff-co-extrait-de-parfum-solaris"
+  },
+  {
+    "id": "saffco-011",
+    "slug": "saffco-las-pozas",
+    "name": "LAS POZAS",
+    "brand": "SAFF & Co",
+    "type": "unisex",
+    "concentrate": "Extrait de Parfum",
+    "notes": {
+      "top": "Datura a.k.a The Angel's Trumpet",
+      "middle": "Sumatran benzoin & Nutmeg",
+      "base": "Cashmeran, Cedar, Sandalwood"
+    },
+    "longevity": "6 hours",
+    "sillage": "Strong",
+    "projection": "-",
+    "image": "/images/saffco-las-pozas.jpeg",
+    "link": "https://www.tokopedia.com/saffnco/saff-co-extrait-de-parfum-las-pozas"
+  }
+]

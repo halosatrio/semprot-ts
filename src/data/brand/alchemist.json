@@ -1,0 +1,92 @@
+[
+  {
+    "id": "alchemist-001",
+    "slug": "alchemist-powder",
+    "name": "Powder Room",
+    "brand": "Alchemist Fragrance",
+    "type": "for her",
+    "concentrate": "Eau de Parfum (EDP)",
+    "notes": {
+      "top": "fresh watery accord, rose, pink pepper",
+      "middle": "violet, orange blossom, peony",
+      "base": "musky notes, marine notes, sandalwood"
+    },
+    "longevity": "4/5",
+    "sillage": "4/5",
+    "projection": "4/5",
+    "image": "/images/alchemist-powder.jpg",
+    "link": "https://www.tokopedia.com/alchemistfragrance/alchemist-eau-de-parfum-powder-room"
+  },
+  {
+    "id": "alchemist-002",
+    "slug": "alchemist-laundry",
+    "name": "Pink Laundry",
+    "brand": "Alchemist Fragrance",
+    "type": "for her",
+    "concentrate": "Eau de Parfum (EDP)",
+    "notes": {
+      "top": "clean aldehydes, chamomile, green notes",
+      "middle": "jasmine, lily of the valley, rose",
+      "base": "musky notes, patchouli, sandalwood, powdery notes"
+    },
+    "longevity": "4/5",
+    "sillage": "4/5",
+    "projection": "5/5",
+    "image": "/images/alchemist-laundry.jpg",
+    "link": "https://www.tokopedia.com/alchemistfragrance/alchemist-eau-de-parfum-pink-laundry"
+  },
+  {
+    "id": "alchemist-003",
+    "slug": "alchemist-my-mojo",
+    "name": "Got My Mojo Back",
+    "brand": "Alchemist Fragrance",
+    "type": "for him",
+    "concentrate": "Eau de Parfum (EDP)",
+    "notes": {
+      "top": "chocolate, blackcurrant, almond",
+      "middle": "cedarwood, tuberose, sambac, jasmine",
+      "base": "praline HS, sandalwood, amber"
+    },
+    "longevity": "5/5",
+    "sillage": "5/5",
+    "projection": "5/5",
+    "image": "/images/alchemist-my-mojo.jpg",
+    "link": "https://www.tokopedia.com/alchemistfragrance/alchemist-eau-de-parfum-got-my-mojo-back"
+  },
+  {
+    "id": "alchemist-004",
+    "slug": "alchemist-home-garden",
+    "name": "Home Garden",
+    "brand": "Alchemist Fragrance",
+    "type": "unisex",
+    "concentrate": "Eau de Parfum (EDP)",
+    "notes": {
+      "top": "blackberry, grapefruit, clove",
+      "middle": "cedar, vetiver",
+      "base": "floral notes"
+    },
+    "longevity": "5/5",
+    "sillage": "4/5",
+    "projection": "5/5",
+    "image": "/images/alchemist-home-garden.jpg",
+    "link": "https://www.tokopedia.com/alchemistfragrance/alchemist-eau-de-parfum-home-garden"
+  },
+  {
+    "id": "alchemist-005",
+    "slug": "alchemist-out-west",
+    "name": "Out West",
+    "brand": "Alchemist Fragrance",
+    "type": "for him",
+    "concentrate": "Extrait de Parfum",
+    "notes": {
+      "top": "yuzu, bergamot, green apple",
+      "middle": "cedarwood, rose, plum",
+      "base": "musk, patchouli, vetiver"
+    },
+    "longevity": "5/5",
+    "sillage": "5/5",
+    "projection": "5/5",
+    "image": "/images/alchemist-out-west.jpg",
+    "link": "https://www.tokopedia.com/alchemistfragrance/alchemist-extrait-de-parfum-out-west"
+  }
+]

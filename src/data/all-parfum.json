@@ -412,5 +412,293 @@
     "projection": "-",
     "image": "/images/usual-nothing.jpg",
     "link": "https://www.tokopedia.com/usual/usual-nothing-edp-50-ml-usual-scentlab-brian-notodihardjo"
+  },
+  {
+    "id": "saffco-001",
+    "slug": "saffco-troupe",
+    "name": "TROUPE",
+    "brand": "SAFF & Co",
+    "type": "for her",
+    "concentrate": "Extrait de Parfum",
+    "notes": {
+      "top": "Citrus/Fresh, Pear",
+      "middle": "Rose, Orange Blossom, Freesia",
+      "base": "Patchouli, Musky, Amber"
+    },
+    "longevity": "6 hours",
+    "sillage": "Strong",
+    "projection": "-",
+    "image": "/images/saffco-troupe.jpg",
+    "link": "https://www.tokopedia.com/saffnco/saff-co-extrait-de-parfum-troupe"
+  },
+  {
+    "id": "saffco-002",
+    "slug": "saffco-coco",
+    "name": "COCO",
+    "brand": "SAFF & Co",
+    "type": "unisex",
+    "concentrate": "Extrait de Parfum",
+    "notes": {
+      "top": "Citrus, Floral, Green",
+      "middle": "Marine, Woody",
+      "base": "Musky, Oriental"
+    },
+    "longevity": "6 hours",
+    "sillage": "Strong",
+    "projection": "-",
+    "image": "/images/saffco-coco.jpg",
+    "link": "https://www.tokopedia.com/saffnco/saff-co-extrait-de-parfum-coco"
+  },
+  {
+    "id": "saffco-003",
+    "slug": "saffco-loui",
+    "name": "LOUI",
+    "brand": "SAFF & Co",
+    "type": "unisex",
+    "concentrate": "Extrait de Parfum",
+    "notes": {
+      "top": "Verbena, Green, Aldehydic",
+      "middle": "Rose, Peony, Lily of the Valley",
+      "base": "Cedarwood, Musk"
+    },
+    "longevity": "6 hours",
+    "sillage": "Strong",
+    "projection": "-",
+    "image": "/images/saffco-loui.jpeg",
+    "link": "https://www.tokopedia.com/saffnco/saff-co-extrait-de-parfum-loui"
+  },
+  {
+    "id": "saffco-004",
+    "slug": "saffco-504",
+    "name": "540",
+    "brand": "SAFF & Co",
+    "type": "unisex",
+    "concentrate": "Extrait de Parfum",
+    "notes": {
+      "top": "Citrus, Floral, Sweet",
+      "middle": "Woody, Tagette, Amber",
+      "base": "Oakmoss, Ambergris, Sugary"
+    },
+    "longevity": "6 hours",
+    "sillage": "Strong",
+    "projection": "-",
+    "image": "/images/saffco-504.jpg",
+    "link": "https://www.tokopedia.com/saffnco/saff-co-extrait-de-parfum-540"
+  },
+  {
+    "id": "saffco-005",
+    "slug": "saffco-omnia",
+    "name": "OMNIA",
+    "brand": "SAFF & Co",
+    "type": "unisex",
+    "concentrate": "Extrait de Parfum",
+    "notes": {
+      "top": "Grapefruit, Green Notes",
+      "middle": "Rose, Floral, Iris",
+      "base": "Woody, Heliotrope, Musk"
+    },
+    "longevity": "6 hours",
+    "sillage": "Strong",
+    "projection": "-",
+    "image": "/images/saffco-omnia.jpg",
+    "link": "https://www.tokopedia.com/saffnco/saff-co-extrait-de-parfum-omnia"
+  },
+  {
+    "id": "saffco-006",
+    "slug": "saffco-chno",
+    "name": "CHNO",
+    "brand": "SAFF & Co",
+    "type": "for her",
+    "concentrate": "Extrait de Parfum",
+    "notes": {
+      "top": "Pink pepper, Orange blossom, Pear",
+      "middle": "Coffee, Jasmin, Bitter almond, Licorice",
+      "base": "Vanilla, Patchouli, Cedar, Cashmere wood"
+    },
+    "longevity": "6 hours",
+    "sillage": "Strong",
+    "projection": "-",
+    "image": "/images/saffco-chno.jpg",
+    "link": "https://www.tokopedia.com/saffnco/saff-co-extrait-de-parfum-chno"
+  },
+  {
+    "id": "saffco-007",
+    "slug": "saffco-shaff",
+    "name": "SAFF",
+    "brand": "SAFF & Co",
+    "type": "for him",
+    "concentrate": "Extrait de Parfum",
+    "notes": {
+      "top": "Bergamot, Mandarin, Saffron",
+      "middle": "Ylang, Lily of the valley, Jasmine/White Floral",
+      "base": "Dryamber, Leathery, Musk"
+    },
+    "longevity": "6 hours",
+    "sillage": "Strong",
+    "projection": "-",
+    "image": "/images/saffco-shaff.jpg",
+    "link": "https://www.tokopedia.com/saffnco/saff-co-extrait-de-parfum-saff"
+  },
+  {
+    "id": "saffco-008",
+    "slug": "saffco-sotb",
+    "name": "S.O.T.B",
+    "brand": "SAFF & Co",
+    "type": "for her",
+    "concentrate": "Extrait de Parfum",
+    "notes": {
+      "top": "Mandarin, Galbanum, Ylang",
+      "middle": "Tuberose, Jasmine, Orange flower",
+      "base": "Vanilla, Tonka bean, Musk"
+    },
+    "longevity": "6 hours",
+    "sillage": "Strong",
+    "projection": "-",
+    "image": "/images/saffco-sotb.jpeg",
+    "link": "https://www.tokopedia.com/saffnco/saff-co-extrait-de-parfum-s-o-t-b"
+  },
+  {
+    "id": "saffco-009",
+    "slug": "saffco-ostara",
+    "name": "OSTARA",
+    "brand": "SAFF & Co",
+    "type": "unisex",
+    "concentrate": "Extrait de Parfum",
+    "notes": {
+      "top": "Raspberry. Passionfruit, Pear",
+      "middle": "Cassis Buds, Lily of the Valley",
+      "base": "Amber, Patchouli, Heliotrope"
+    },
+    "longevity": "6 hours",
+    "sillage": "Strong",
+    "projection": "-",
+    "image": "/images/saffco-ostara.jpeg",
+    "link": "https://www.tokopedia.com/saffnco/saff-co-extrait-de-parfum-ostara"
+  },
+  {
+    "id": "saffco-010",
+    "slug": "saffco-solaris",
+    "name": "SOLARIS",
+    "brand": "SAFF & Co",
+    "type": "unisex",
+    "concentrate": "Extrait de Parfum",
+    "notes": {
+      "top": "Bergamot, Mandarin, Violet Leaves",
+      "middle": "Orris, Freesia, Cedarwood",
+      "base": "Vetiver, Amber, Tonka Bean"
+    },
+    "longevity": "6 hours",
+    "sillage": "Strong",
+    "projection": "-",
+    "image": "/images/saffco-solaris.jpeg",
+    "link": "https://www.tokopedia.com/saffnco/saff-co-extrait-de-parfum-solaris"
+  },
+  {
+    "id": "saffco-011",
+    "slug": "saffco-las-pozas",
+    "name": "LAS POZAS",
+    "brand": "SAFF & Co",
+    "type": "unisex",
+    "concentrate": "Extrait de Parfum",
+    "notes": {
+      "top": "Datura a.k.a The Angel's Trumpet",
+      "middle": "Sumatran benzoin & Nutmeg",
+      "base": "Cashmeran, Cedar, Sandalwood"
+    },
+    "longevity": "6 hours",
+    "sillage": "Strong",
+    "projection": "-",
+    "image": "/images/saffco-las-pozas.jpeg",
+    "link": "https://www.tokopedia.com/saffnco/saff-co-extrait-de-parfum-las-pozas"
+  },
+  {
+    "id": "alchemist-001",
+    "slug": "alchemist-powder",
+    "name": "Powder Room",
+    "brand": "Alchemist Fragrance",
+    "type": "for her",
+    "concentrate": "Eau de Parfum (EDP)",
+    "notes": {
+      "top": "fresh watery accord, rose, pink pepper",
+      "middle": "violet, orange blossom, peony",
+      "base": "musky notes, marine notes, sandalwood"
+    },
+    "longevity": "4/5",
+    "sillage": "4/5",
+    "projection": "4/5",
+    "image": "/images/alchemist-powder.jpg",
+    "link": "https://www.tokopedia.com/alchemistfragrance/alchemist-eau-de-parfum-powder-room"
+  },
+  {
+    "id": "alchemist-002",
+    "slug": "alchemist-laundry",
+    "name": "Pink Laundry",
+    "brand": "Alchemist Fragrance",
+    "type": "for her",
+    "concentrate": "Eau de Parfum (EDP)",
+    "notes": {
+      "top": "clean aldehydes, chamomile, green notes",
+      "middle": "jasmine, lily of the valley, rose",
+      "base": "musky notes, patchouli, sandalwood, powdery notes"
+    },
+    "longevity": "4/5",
+    "sillage": "4/5",
+    "projection": "5/5",
+    "image": "/images/alchemist-laundry.jpg",
+    "link": "https://www.tokopedia.com/alchemistfragrance/alchemist-eau-de-parfum-pink-laundry"
+  },
+  {
+    "id": "alchemist-003",
+    "slug": "alchemist-my-mojo",
+    "name": "Got My Mojo Back",
+    "brand": "Alchemist Fragrance",
+    "type": "for him",
+    "concentrate": "Eau de Parfum (EDP)",
+    "notes": {
+      "top": "chocolate, blackcurrant, almond",
+      "middle": "cedarwood, tuberose, sambac, jasmine",
+      "base": "praline HS, sandalwood, amber"
+    },
+    "longevity": "5/5",
+    "sillage": "5/5",
+    "projection": "5/5",
+    "image": "/images/alchemist-my-mojo.jpg",
+    "link": "https://www.tokopedia.com/alchemistfragrance/alchemist-eau-de-parfum-got-my-mojo-back"
+  },
+  {
+    "id": "alchemist-004",
+    "slug": "alchemist-home-garden",
+    "name": "Home Garden",
+    "brand": "Alchemist Fragrance",
+    "type": "unisex",
+    "concentrate": "Eau de Parfum (EDP)",
+    "notes": {
+      "top": "blackberry, grapefruit, clove",
+      "middle": "cedar, vetiver",
+      "base": "floral notes"
+    },
+    "longevity": "5/5",
+    "sillage": "4/5",
+    "projection": "5/5",
+    "image": "/images/alchemist-home-garden.jpg",
+    "link": "https://www.tokopedia.com/alchemistfragrance/alchemist-eau-de-parfum-home-garden"
+  },
+  {
+    "id": "alchemist-005",
+    "slug": "alchemist-out-west",
+    "name": "Out West",
+    "brand": "Alchemist Fragrance",
+    "type": "for him",
+    "concentrate": "Extrait de Parfum",
+    "notes": {
+      "top": "yuzu, bergamot, green apple",
+      "middle": "cedarwood, rose, plum",
+      "base": "musk, patchouli, vetiver"
+    },
+    "longevity": "5/5",
+    "sillage": "5/5",
+    "projection": "5/5",
+    "image": "/images/alchemist-out-west.jpg",
+    "link": "https://www.tokopedia.com/alchemistfragrance/alchemist-extrait-de-parfum-out-west"
   }
 ]

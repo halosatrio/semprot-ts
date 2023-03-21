@@ -14,5 +14,15 @@
     "name": "USUAL/SCENTLAB",
     "slug": "usual"
   },
+  {
+    "id": "004",
+    "name": "SAFF & Co",
+    "slug": "saffco"
+  },
+  {
+    "id": "005",
+    "name": "Alchemist Fragrance",
+    "slug": "alchemist"
+  },
   {}
 ]
