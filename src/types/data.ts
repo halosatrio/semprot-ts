@@ -5,11 +5,13 @@ export interface DataParfum {
   brand: string;
   type: string;
   concentrate: string;
-  notes: {
-    top: string;
-    middle: string;
-    base: string;
-  };
+  notes:
+    | string
+    | {
+        top: string;
+        middle: string;
+        base: string;
+      };
   longevity: string;
   sillage: string;
   projection: string;
@@ -18,7 +20,9 @@ export interface DataParfum {
 }
 
 export interface Brands {
-  [key: string]: string | undefined;
+  id: string;
+  name: string;
+  slug: string;
 }
 
 // export interface DataByCategory {
