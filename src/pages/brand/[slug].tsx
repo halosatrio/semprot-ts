@@ -1,10 +1,10 @@
-import MainLayout from "@/components/MainLayout";
-
 import {
   GetStaticPathsResult,
   GetStaticPropsContext,
   GetStaticPropsResult,
 } from "next";
+
+import MainLayout from "@/components/MainLayout";
 
 import { Brands } from "@/types/data";
 import dataBrands from "@/data/brands.json";
@@ -41,7 +41,6 @@ export async function getStaticPaths(): Promise<GetStaticPathsResult> {
 
 export async function getStaticProps({ params }: Context): Promise<Result> {
   const { slug } = params!;
-
   const content = dataBrands.filter((item) => {
     return item.slug === slug;
   });

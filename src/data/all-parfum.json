@@ -928,5 +928,167 @@
     "projection": "5/5",
     "image": "/images/carl-emily-paris.webp",
     "link": "https://www.carlandclaire.com/products/carl-claire-emily-in-paris-enchantee-edp-30ml"
+  },
+  {
+    "id": "mine-001",
+    "slug": "mine-laboheme",
+    "name": "La Boheme",
+    "brand": "Mine. Perfumery",
+    "type": "unisex",
+    "concentrate": "Eau de Parfum (EDP)",
+    "notes": {
+      "top": "Forest Mist, Cannabis, Raspberry Ketone",
+      "middle": "ROakmoss, Violet, Vanillin",
+      "base": "Patchouli, Wild Vetiver, Ethyl Maltol"
+    },
+    "longevity": "5/5",
+    "sillage": "5/5",
+    "projection": "5/5",
+    "image": "/images/mine-laboheme.webp",
+    "link": "https://www.minedot.com/products/la-boheme"
+  },
+  {
+    "id": "mine-002",
+    "slug": "mine-floraison",
+    "name": "Floraison",
+    "brand": "Mine. Perfumery",
+    "type": "for her",
+    "concentrate": "Eau de Parfum (EDP)",
+    "notes": {
+      "top": "Pink Pepper, Peony, Lychee, Wild Berry,",
+      "middle": "Hedione, Rose Otto Oil,",
+      "base": "White Musk, Patchouli, Bois De Rose"
+    },
+    "longevity": "5/5",
+    "sillage": "4/5",
+    "projection": "4/5",
+    "image": "/images/mine-floraison.webp",
+    "link": "https://www.minedot.com/products/floraison"
+  },
+  {
+    "id": "mine-003",
+    "slug": "mine-ethereal",
+    "name": "Ethereal",
+    "brand": "Mine. Perfumery",
+    "type": "unisex",
+    "concentrate": "Eau de Parfum (EDP)",
+    "notes": {
+      "top": "Vanillin, Almond, Hedione",
+      "middle": "Bergamot, Baby's Breath, Pink Pepper",
+      "base": "Sandalwood, Cashmeran and Orange"
+    },
+    "longevity": "4/5",
+    "sillage": "5/5",
+    "projection": "5/5",
+    "image": "/images/mine-ethereal.webp",
+    "link": "https://www.minedot.com/products/ethereal"
+  },
+  {
+    "id": "mine-004",
+    "slug": "mine-beige",
+    "name": "Beige 96",
+    "brand": "Mine. Perfumery",
+    "type": "unisex",
+    "concentrate": "Eau de Parfum (EDP)",
+    "notes": {
+      "top": "Juniper Berry, Skin Accord, Musk Mallow",
+      "middle": "Suede, Rose",
+      "base": "Sandalwood, Vetiver, Orange, Clary Sage"
+    },
+    "longevity": "4/5",
+    "sillage": "3/5",
+    "projection": "3/5",
+    "image": "/images/mine-beige.webp",
+    "link": "https://www.minedot.com/products/beige-96"
+  },
+  {
+    "id": "mine-005",
+    "slug": "mine-almalika",
+    "name": "Almalika",
+    "brand": "Mine. Perfumery",
+    "type": "for her",
+    "concentrate": "Eau de Parfum (EDP)",
+    "notes": {
+      "top": "Desert Lavender, Fir Needle, Black Pepper, Myrrh",
+      "middle": "Lilac, Desert Rose",
+      "base": "White Oud, Guaiacwood, Vanillin"
+    },
+    "longevity": "4/5",
+    "sillage": "5/5",
+    "projection": "5/5",
+    "image": "/images/mine-almalika.webp",
+    "link": "https://www.minedot.com/products/almalika"
+  },
+  {
+    "id": "mine-006",
+    "slug": "mine-narcotique",
+    "name": "Narcotique",
+    "brand": "Mine. Perfumery",
+    "type": "for her",
+    "concentrate": "Eau de Parfum (EDP)",
+    "notes": {
+      "top": "Blood Orange, Bergamot, Sicilian Lemon",
+      "middle": "Sea Salt, Cardamom, Petitgrain",
+      "base": "Vetiver, Cedarwood, Ambrette"
+    },
+    "longevity": "3/5",
+    "sillage": "4/5",
+    "projection": "4/5",
+    "image": "/images/mine-narcotique.webp",
+    "link": "https://www.minedot.com/products/narcotique"
+  },
+  {
+    "id": "mine-007",
+    "slug": "mine-lucid-dream",
+    "name": "Lucid Dream",
+    "brand": "Mine. Perfumery",
+    "type": "unisex",
+    "concentrate": "Eau de Parfum (EDP)",
+    "notes": {
+      "top": "Air, White Peach, Gardenia",
+      "middle": "Solar, Maltol, Vanillin",
+      "base": "White Musk, Ambergris, Ambroxan"
+    },
+    "longevity": "4/5",
+    "sillage": "5/5",
+    "projection": "5/5",
+    "image": "/images/mine-lucid-dream.webp",
+    "link": "https://www.minedot.com/products/lucid-dreams"
+  },
+  {
+    "id": "mine-008",
+    "slug": "mine-sakura-sake",
+    "name": "Lucid Dream",
+    "brand": "Mine. Perfumery",
+    "type": "for her",
+    "concentrate": "Eau de Parfum (EDP)",
+    "notes": {
+      "top": "Strawberry, Momo Peach, Sake",
+      "middle": "Blackcurrant, Cherry Blossom, Rosewood oil",
+      "base": "Creamy Sandalwood, Ethyl Maltol, Ambrette"
+    },
+    "longevity": "4/5",
+    "sillage": "5/5",
+    "projection": "5/5",
+    "image": "/images/mine-sakura-sake.webp",
+    "link": "https://www.minedot.com/products/sakura-sake"
+  },
+  {
+    "id": "mine-009",
+    "slug": "mine-tatami",
+    "name": "Tatami",
+    "brand": "Mine. Perfumery",
+    "type": "unisex",
+    "concentrate": "Eau de Parfum (EDP)",
+    "notes": {
+      "top": "Plum, Earl Grey, orange Blossom",
+      "middle": "Peony Rose, Blackcurrant, bud Lily of the Valley",
+      "base": "Ambrettolide, Violet Leaf, Tea Leaf"
+    },
+    "longevity": "4/5",
+    "sillage": "5/5",
+    "projection": "5/5",
+    "image": "/images/mine-tatami.webp",
+    "link": "https://www.minedot.com/products/mine-perfumery-mine-dot-tatami-50ml-eau-de-parfum"
   }
 ]
