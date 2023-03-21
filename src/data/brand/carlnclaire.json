@@ -1,0 +1,146 @@
+[
+  {
+    "id": "carl-001",
+    "slug": "carl-song-youth",
+    "name": "Song of the Youth",
+    "brand": "Carl & Claire",
+    "type": "for her",
+    "concentrate": "Eau de Parfum (EDP)",
+    "notes": {
+      "top": "Citrus, Floral, Fruity",
+      "middle": "Magnolia, Musky, Iris, Vanilla",
+      "base": "Ambery, Animalic, Moss"
+    },
+    "longevity": "Up to 10-15 Hours",
+    "sillage": "Heavy",
+    "projection": "5/5",
+    "image": "/images/carl-song-youth.webp",
+    "link": "https://www.carlandclaire.com/products/song-of-the-youth-30-ml"
+  },
+  {
+    "id": "carl-002",
+    "slug": "carl-talking-moon",
+    "name": "Talking to the Moon",
+    "brand": "Carl & Claire",
+    "type": "for her",
+    "concentrate": "Eau de Parfum (EDP)",
+    "notes": {
+      "top": "Fruity, Orange Blossom",
+      "middle": "Jasmine, Tuberose, Woody",
+      "base": "Ambery, Musky, Sweet"
+    },
+    "longevity": "Up to 10-15 Hours",
+    "sillage": "Heavy",
+    "projection": "5/5",
+    "image": "/images/carl-talking-moon.webp",
+    "link": "https://www.carlandclaire.com/products/talking-to-the-moon-30-ml"
+  },
+  {
+    "id": "carl-003",
+    "slug": "carl-black-dahlia",
+    "name": "Black Dahlia",
+    "brand": "Carl & Claire",
+    "type": "for her",
+    "concentrate": "Eau de Parfum (EDP)",
+    "notes": {
+      "top": "White Floral, Gourmand, Coffee",
+      "middle": "Vanilla, Floral, Woody",
+      "base": "Ambery, Musky, Sweet"
+    },
+    "longevity": "Up to 10-15 Hours",
+    "sillage": "Heavy",
+    "projection": "5/5",
+    "image": "/images/carl-black-dahlia.webp",
+    "link": "https://www.carlandclaire.com/products/black-dahlia-30-ml"
+  },
+  {
+    "id": "carl-004",
+    "slug": "carl-dancing-shadow",
+    "name": "Dancing with my Shadow",
+    "brand": "Carl & Claire",
+    "type": "for her",
+    "concentrate": "Eau de Parfum (EDP)",
+    "notes": {
+      "top": "Floral, Fresh, Herbaceous",
+      "middle": "Floral, Oriental, Rose",
+      "base": "Ambery, Balsamic, Musky"
+    },
+    "longevity": "Up to 8-10 Hours",
+    "sillage": "Light",
+    "projection": "4/5",
+    "image": "/images/carl-dancing-shadow.webp",
+    "link": "https://www.carlandclaire.com/products/musk-30-ml"
+  },
+  {
+    "id": "carl-005",
+    "slug": "carl-love-this",
+    "name": "A Love Like This",
+    "brand": "Carl & Claire",
+    "type": "for her",
+    "concentrate": "Eau de Parfum (EDP)",
+    "notes": {
+      "top": "Lily, Aromatic, Eucalyptus, Ginger",
+      "middle": "Lily, Ambery, Jasmine",
+      "base": "Cedarwood, Musky, Patchouli"
+    },
+    "longevity": "Up to 8-10 Hours",
+    "sillage": "Medium",
+    "projection": "5/5",
+    "image": "/images/carl-love-this.webp",
+    "link": "https://www.carlandclaire.com/products/blossom-30-ml"
+  },
+  {
+    "id": "carl-006",
+    "slug": "carl-spring-sonata",
+    "name": "Spring Sonata",
+    "brand": "Carl & Claire",
+    "type": "for her",
+    "concentrate": "Eau de Parfum (EDP)",
+    "notes": {
+      "top": "Citrus, Rose, Peony, Jasmine, Fruity",
+      "middle": "Floral, Fruity, Lactonic",
+      "base": "Ambery, Floral, Musky"
+    },
+    "longevity": "Up to 8-10 Hours",
+    "sillage": "Medium",
+    "projection": "5/5",
+    "image": "/images/carl-spring-sonata.webp",
+    "link": "https://www.carlandclaire.com/products/lady-30-ml"
+  },
+  {
+    "id": "carl-007",
+    "slug": "carl-delicate",
+    "name": "Delicate Embrace",
+    "brand": "Carl & Claire",
+    "type": "for her",
+    "concentrate": "Eau de Parfum (EDP)",
+    "notes": {
+      "top": "Citrus, Freesia, Fruity, Pear",
+      "middle": "Lily of The Valley, Rose",
+      "base": "Ambery, Musky"
+    },
+    "longevity": "Up to 8-10 Hours",
+    "sillage": "Medium",
+    "projection": "5/5",
+    "image": "/images/carl-delicate.webp",
+    "link": "https://www.carlandclaire.com/products/delicate-30-ml"
+  },
+  {
+    "id": "carl-008",
+    "slug": "carl-emily-paris",
+    "name": "Emily in Paris - Enchantée",
+    "brand": "Carl & Claire",
+    "type": "for her",
+    "concentrate": "Eau de Parfum (EDP)",
+    "notes": {
+      "top": "Citrus, Ginger, Peach",
+      "middle": "White Flowers, Jasmine, Tuberose, heliotrope",
+      "base": "Ambrette, Musk, Gourmand"
+    },
+    "longevity": "Up to 8-10 Hours",
+    "sillage": "Medium",
+    "projection": "5/5",
+    "image": "/images/carl-emily-paris.webp",
+    "link": "https://www.carlandclaire.com/products/carl-claire-emily-in-paris-enchantee-edp-30ml"
+  }
+]

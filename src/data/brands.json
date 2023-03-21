@@ -6,7 +6,7 @@
   },
   {
     "id": "002",
-    "name": "ONIX FRAGRANCE",
+    "name": "ONIX Fragrance",
     "slug": "onix"
   },
   {
@@ -23,6 +23,16 @@
     "id": "005",
     "name": "Alchemist Fragrance",
     "slug": "alchemist"
+  },
+  {
+    "id": "006",
+    "name": "Sansoe Fragrances",
+    "slug": "sansoe"
+  },
+  {
+    "id": "007",
+    "name": "Carl & Claire",
+    "slug": "carlnclaire"
   },
   {}
 ]
