@@ -1,0 +1,128 @@
+[
+  {
+    "id": "onix-001",
+    "slug": "onix-fwb",
+    "name": "FWB",
+    "brand": "ONIX Fragrance",
+    "type": "-",
+    "concentrate": "Eau de Parfume (EDP)",
+    "notes": {
+      "top": "Bergamot, Lemon, Orange, Apple, Green tea",
+      "middle": "Freesia, White Floral, Amber, Peach, Coconut",
+      "base": "Amber, Vetiver, Musk, Vanilla, Cedarwood, Caramel"
+    },
+    "longevity": "-",
+    "sillage": "-",
+    "projection": "-",
+    "image": "/images/onix-fwb.webp",
+    "link": "https://onixfragrance.co.id/id/product/onix"
+  },
+  {
+    "id": "onix-002",
+    "slug": "onix-mexicola",
+    "name": "Mexicola",
+    "brand": "ONIX Fragrance",
+    "type": "-",
+    "concentrate": "Eau de Parfume (EDP)",
+    "notes": {
+      "top": "Raspberry, apple, pineapple",
+      "middle": "Jasmine, muguet, cyclamen, freesia",
+      "base": "Sandalwood, coconut, musk, tonka, vanilla, caramel"
+    },
+    "longevity": "-",
+    "sillage": "-",
+    "projection": "-",
+    "image": "/images/onix-mexicola.webp",
+    "link": "https://onixfragrance.co.id/id/product/onix-mexicola"
+  },
+  {
+    "id": "onix-003",
+    "slug": "onix-senoparty",
+    "name": "Senoparty",
+    "brand": "ONIX Fragrance",
+    "type": "-",
+    "concentrate": "Eau de Parfume (EDP)",
+    "notes": {
+      "top": "Saffron, fir, bergamot, nagarmotha",
+      "middle": "Oud, white floral, tageta",
+      "base": "Amber, musk, caramel cedar, moss"
+    },
+    "longevity": "-",
+    "sillage": "-",
+    "projection": "-",
+    "image": "/images/onix-senoparty.webp",
+    "link": "https://onixfragrance.co.id/id/product/onix-senoparty"
+  },
+  {
+    "id": "onix-004",
+    "slug": "onix-gratitude",
+    "name": "Gratitude",
+    "brand": "ONIX Fragrance",
+    "type": "-",
+    "concentrate": "Eau de Parfume (EDP)",
+    "notes": {
+      "top": "Green, Fruity, Ozone",
+      "middle": "White Floral, Caramel, Lactone, Violet",
+      "base": "Amber, Musk, Vanilla, Sandalwood, Cedarwood"
+    },
+    "longevity": "-",
+    "sillage": "-",
+    "projection": "-",
+    "image": "/images/onix-gratitude.webp",
+    "link": "https://onixfragrance.co.id/id/product/onix-gratitude"
+  },
+  {
+    "id": "onix-005",
+    "slug": "onix-scorpio",
+    "name": "Scorpio",
+    "brand": "ONIX Fragrance",
+    "type": "-",
+    "concentrate": "Eau de Parfume (EDP)",
+    "notes": {
+      "top": "Pink Pepper, Orange Blossom",
+      "middle": "Jasmine, Coffee",
+      "base": "Vanilla, Patchouli, Cedarwood"
+    },
+    "longevity": "-",
+    "sillage": "-",
+    "projection": "-",
+    "image": "/images/onix-scorpio.webp",
+    "link": "https://onixfragrance.co.id/id/product/onix-scorpio-30ml"
+  },
+  {
+    "id": "onix-006",
+    "slug": "onix-chillin",
+    "name": "Chillin Baby",
+    "brand": "ONIX Fragrance",
+    "type": "-",
+    "concentrate": "Eau de Parfume (EDP)",
+    "notes": {
+      "top": "peach, apple, melony",
+      "middle": "Floral bouquet of mimosa, tuberose, freesia, jasmine and ylang ylang",
+      "base": "sandalwood, musk, oakmoss"
+    },
+    "longevity": "-",
+    "sillage": "-",
+    "projection": "-",
+    "image": "/images/onix-chillin.webp",
+    "link": "https://onixfragrance.co.id/id/product/onix-chillin-baby-30ml"
+  },
+  {
+    "id": "onix-007",
+    "slug": "onix-seductress",
+    "name": "Seductress",
+    "brand": "ONIX Fragrance",
+    "type": "-",
+    "concentrate": "Eau de Parfume (EDP)",
+    "notes": {
+      "top": "VANILLA",
+      "middle": "VANILLA, JASMINE, MUGUET",
+      "base": "MUSK, AMBER, VANILLA, SANDALWOOD, COCONUT"
+    },
+    "longevity": "-",
+    "sillage": "-",
+    "projection": "-",
+    "image": "/images/onix-seductress.webp",
+    "link": "https://onixfragrance.co.id/id/product/onix-seductress"
+  }
+]

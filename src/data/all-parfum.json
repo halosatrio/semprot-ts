@@ -142,5 +142,275 @@
     "projection": "2 meters",
     "image": "/images/hmns-orgasm-absolute.webp",
     "link": "https://madeforhmns.com/collections/all/products/hmns-perfume-absolute-orgsm-eau-de-parfum"
+  },
+  {
+    "id": "onix-001",
+    "slug": "onix-fwb",
+    "name": "FWB",
+    "brand": "ONIX Fragrance",
+    "type": "-",
+    "concentrate": "Eau de Parfume (EDP)",
+    "notes": {
+      "top": "Bergamot, Lemon, Orange, Apple, Green tea",
+      "middle": "Freesia, White Floral, Amber, Peach, Coconut",
+      "base": "Amber, Vetiver, Musk, Vanilla, Cedarwood, Caramel"
+    },
+    "longevity": "-",
+    "sillage": "-",
+    "projection": "-",
+    "image": "/images/onix-fwb.webp",
+    "link": "https://onixfragrance.co.id/id/product/onix"
+  },
+  {
+    "id": "onix-002",
+    "slug": "onix-mexicola",
+    "name": "Mexicola",
+    "brand": "ONIX Fragrance",
+    "type": "-",
+    "concentrate": "Eau de Parfume (EDP)",
+    "notes": {
+      "top": "Raspberry, apple, pineapple",
+      "middle": "Jasmine, muguet, cyclamen, freesia",
+      "base": "Sandalwood, coconut, musk, tonka, vanilla, caramel"
+    },
+    "longevity": "-",
+    "sillage": "-",
+    "projection": "-",
+    "image": "/images/onix-mexicola.webp",
+    "link": "https://onixfragrance.co.id/id/product/onix-mexicola"
+  },
+  {
+    "id": "onix-003",
+    "slug": "onix-senoparty",
+    "name": "Senoparty",
+    "brand": "ONIX Fragrance",
+    "type": "-",
+    "concentrate": "Eau de Parfume (EDP)",
+    "notes": {
+      "top": "Saffron, fir, bergamot, nagarmotha",
+      "middle": "Oud, white floral, tageta",
+      "base": "Amber, musk, caramel cedar, moss"
+    },
+    "longevity": "-",
+    "sillage": "-",
+    "projection": "-",
+    "image": "/images/onix-senoparty.webp",
+    "link": "https://onixfragrance.co.id/id/product/onix-senoparty"
+  },
+  {
+    "id": "onix-004",
+    "slug": "onix-gratitude",
+    "name": "Gratitude",
+    "brand": "ONIX Fragrance",
+    "type": "-",
+    "concentrate": "Eau de Parfume (EDP)",
+    "notes": {
+      "top": "Green, Fruity, Ozone",
+      "middle": "White Floral, Caramel, Lactone, Violet",
+      "base": "Amber, Musk, Vanilla, Sandalwood, Cedarwood"
+    },
+    "longevity": "-",
+    "sillage": "-",
+    "projection": "-",
+    "image": "/images/onix-gratitude.webp",
+    "link": "https://onixfragrance.co.id/id/product/onix-gratitude"
+  },
+  {
+    "id": "onix-005",
+    "slug": "onix-scorpio",
+    "name": "Scorpio",
+    "brand": "ONIX Fragrance",
+    "type": "-",
+    "concentrate": "Eau de Parfume (EDP)",
+    "notes": {
+      "top": "Pink Pepper, Orange Blossom",
+      "middle": "Jasmine, Coffee",
+      "base": "Vanilla, Patchouli, Cedarwood"
+    },
+    "longevity": "-",
+    "sillage": "-",
+    "projection": "-",
+    "image": "/images/onix-scorpio.webp",
+    "link": "https://onixfragrance.co.id/id/product/onix-scorpio-30ml"
+  },
+  {
+    "id": "onix-006",
+    "slug": "onix-chillin",
+    "name": "Chillin Baby",
+    "brand": "ONIX Fragrance",
+    "type": "-",
+    "concentrate": "Eau de Parfume (EDP)",
+    "notes": {
+      "top": "peach, apple, melony",
+      "middle": "Floral bouquet of mimosa, tuberose, freesia, jasmine and ylang ylang",
+      "base": "sandalwood, musk, oakmoss"
+    },
+    "longevity": "-",
+    "sillage": "-",
+    "projection": "-",
+    "image": "/images/onix-chillin.webp",
+    "link": "https://onixfragrance.co.id/id/product/onix-chillin-baby-30ml"
+  },
+  {
+    "id": "onix-007",
+    "slug": "onix-seductress",
+    "name": "Seductress",
+    "brand": "ONIX Fragrance",
+    "type": "-",
+    "concentrate": "Eau de Parfume (EDP)",
+    "notes": {
+      "top": "VANILLA",
+      "middle": "VANILLA, JASMINE, MUGUET",
+      "base": "MUSK, AMBER, VANILLA, SANDALWOOD, COCONUT"
+    },
+    "longevity": "-",
+    "sillage": "-",
+    "projection": "-",
+    "image": "/images/onix-seductress.webp",
+    "link": "https://onixfragrance.co.id/id/product/onix-seductress"
+  },
+  {
+    "id": "usual-001",
+    "slug": "usual-shower",
+    "name": "Out Of Shower",
+    "brand": "Usual Scentlab",
+    "type": "for him",
+    "concentrate": "Eau de Parfume (EDP)",
+    "notes": {
+      "top": "Bergamot – Pepper",
+      "middle": "Geranium – Lavender",
+      "base": "Patchouli – Vetiver"
+    },
+    "longevity": "-",
+    "sillage": "-",
+    "projection": "-",
+    "image": "/images/usual-shower.jpg",
+    "link": "https://www.tokopedia.com/usual/usual-out-of-shower-edp-50-ml"
+  },
+  {
+    "id": "usual-002",
+    "slug": "usual-ginger",
+    "name": "Gentle Ginger",
+    "brand": "Usual Scentlab",
+    "type": "unisex",
+    "concentrate": "Eau de Parfume (EDP)",
+    "notes": {
+      "top": "Ginger - Bergamot - Lemon",
+      "middle": "Spices - Basil",
+      "base": "Synthetic Musk"
+    },
+    "longevity": "-",
+    "sillage": "-",
+    "projection": "-",
+    "image": "/images/usual-ginger.jpg",
+    "link": "https://www.tokopedia.com/usual/usual-gentle-ginger-edp-50-ml"
+  },
+  {
+    "id": "usual-003",
+    "slug": "usual-citrus-tonka",
+    "name": "Citrus Tonka",
+    "brand": "Usual Scentlab",
+    "type": "for men",
+    "concentrate": "Eau de Parfume (EDP)",
+    "notes": {
+      "top": "Mandarin Orange, Mint & Cypress",
+      "middle": "Pepper & Sage",
+      "base": "Tonka Bean"
+    },
+    "longevity": "-",
+    "sillage": "-",
+    "projection": "-",
+    "image": "/images/usual-citrus-tonka.jpg",
+    "link": "https://www.tokopedia.com/usual/usual-citrus-tonka-edp"
+  },
+  {
+    "id": "usual-004",
+    "slug": "usual-canggu",
+    "name": "Canggu Days",
+    "brand": "Usual Scentlab",
+    "type": "for men",
+    "concentrate": "Eau de Parfume (EDP)",
+    "notes": {
+      "top": "Yuzu and Orange",
+      "middle": "Cinnamon, Nutmeg, and Cardamom",
+      "base": "Woody Scent"
+    },
+    "longevity": "-",
+    "sillage": "-",
+    "projection": "-",
+    "image": "/images/usual-canggu.jpg",
+    "link": "https://www.tokopedia.com/usual/usual-canggu-days-edp"
+  },
+  {
+    "id": "usual-005",
+    "slug": "usual-friday",
+    "name": "Friday Night",
+    "brand": "Usual Scentlab",
+    "type": "for men",
+    "concentrate": "Eau de Parfume (EDP)",
+    "notes": {
+      "top": " Tobacco",
+      "middle": "Rum",
+      "base": "Cedarwood"
+    },
+    "longevity": "-",
+    "sillage": "-",
+    "projection": "-",
+    "image": "/images/usual-canggu.jpg",
+    "link": "https://www.tokopedia.com/usual/usual-friday-night-edp-50-ml"
+  },
+  {
+    "id": "usual-006",
+    "slug": "usual-jasmine",
+    "name": "Jasmine Bouquet",
+    "brand": "Usual Scentlab",
+    "type": "for her",
+    "concentrate": "Eau de Parfume (EDP)",
+    "notes": {
+      "top": "Marigold",
+      "middle": "Jasmine – Honey",
+      "base": "Labdanum – Benzoin – Vanilla"
+    },
+    "longevity": "-",
+    "sillage": "-",
+    "projection": "-",
+    "image": "/images/usual-jasmine.jpg",
+    "link": "https://www.tokopedia.com/usual/usual-jasmine-bouquet-edp-50-ml"
+  },
+  {
+    "id": "usual-007",
+    "slug": "usual-steeze",
+    "name": "Eau De Steeze",
+    "brand": "Usual Scentlab",
+    "type": "unisex",
+    "concentrate": "Eau de Parfume (EDP)",
+    "notes": {
+      "top": "Lemon - Bergamot",
+      "middle": "White floral",
+      "base": "Vetiver - Musk"
+    },
+    "longevity": "-",
+    "sillage": "-",
+    "projection": "-",
+    "image": "/images/usual-steeze.jpg",
+    "link": "https://www.tokopedia.com/usual/usual-eau-de-steeze-edp-50-ml"
+  },
+  {
+    "id": "usual-008",
+    "slug": "usual-nothing",
+    "name": "Nothing",
+    "brand": "Usual Scentlab",
+    "type": "unisex",
+    "concentrate": "Eau de Parfume (EDP)",
+    "notes": {
+      "top": "Ambroxan - Iso E Super",
+      "middle": "Ambroxan - Iso E Super",
+      "base": "Ambroxan - Iso E Super"
+    },
+    "longevity": "-",
+    "sillage": "-",
+    "projection": "-",
+    "image": "/images/usual-nothing.jpg",
+    "link": "https://www.tokopedia.com/usual/usual-nothing-edp-50-ml-usual-scentlab-brian-notodihardjo"
   }
 ]

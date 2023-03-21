@@ -6,7 +6,13 @@
   },
   {
     "id": "002",
+    "name": "ONIX FRAGRANCE",
+    "slug": "onix"
+  },
+  {
+    "id": "003",
     "name": "USUAL/SCENTLAB",
-    "slug": "usual-scentlab"
-  }
+    "slug": "usual"
+  },
+  {}
 ]
