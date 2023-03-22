@@ -18,8 +18,6 @@ const SEO = (props: SeoProps) => {
     <Head>
       <title>{title}</title>
       <meta name="description" content={desc} />
-      <link rel="icon" type="image/png" href="/favicon.png" />
-      <link rel="apple-touch-icon" href="/favicon.png" />
       <link rel="canonical" href={`${baseUrl}${router.asPath}`} />
     </Head>
   );

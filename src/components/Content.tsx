@@ -5,8 +5,6 @@ type ParfumProps = {
 };
 
 const Content = ({ data }: ParfumProps) => {
-  console.log(data);
-
   return (
     <>
       <div className="flex justify-center">
