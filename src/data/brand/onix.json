@@ -4,7 +4,7 @@
     "slug": "onix-fwb",
     "name": "FWB",
     "brand": "ONIX Fragrance",
-    "type": "-",
+    "type": "unisex",
     "concentrate": "Eau de Parfum (EDP)",
     "notes": {
       "top": "Bergamot, Lemon, Orange, Apple, Green tea",
@@ -22,7 +22,7 @@
     "slug": "onix-mexicola",
     "name": "Mexicola",
     "brand": "ONIX Fragrance",
-    "type": "-",
+    "type": "unisex",
     "concentrate": "Eau de Parfum (EDP)",
     "notes": {
       "top": "Raspberry, apple, pineapple",
@@ -40,7 +40,7 @@
     "slug": "onix-senoparty",
     "name": "Senoparty",
     "brand": "ONIX Fragrance",
-    "type": "-",
+    "type": "unisex",
     "concentrate": "Eau de Parfum (EDP)",
     "notes": {
       "top": "Saffron, fir, bergamot, nagarmotha",
@@ -58,7 +58,7 @@
     "slug": "onix-gratitude",
     "name": "Gratitude",
     "brand": "ONIX Fragrance",
-    "type": "-",
+    "type": "unisex",
     "concentrate": "Eau de Parfum (EDP)",
     "notes": {
       "top": "Green, Fruity, Ozone",
@@ -76,7 +76,7 @@
     "slug": "onix-scorpio",
     "name": "Scorpio",
     "brand": "ONIX Fragrance",
-    "type": "-",
+    "type": "for him",
     "concentrate": "Eau de Parfum (EDP)",
     "notes": {
       "top": "Pink Pepper, Orange Blossom",
@@ -94,7 +94,7 @@
     "slug": "onix-chillin",
     "name": "Chillin Baby",
     "brand": "ONIX Fragrance",
-    "type": "-",
+    "type": "for her",
     "concentrate": "Eau de Parfum (EDP)",
     "notes": {
       "top": "peach, apple, melony",
@@ -112,7 +112,7 @@
     "slug": "onix-seductress",
     "name": "Seductress",
     "brand": "ONIX Fragrance",
-    "type": "-",
+    "type": "for her",
     "concentrate": "Eau de Parfum (EDP)",
     "notes": {
       "top": "VANILLA",

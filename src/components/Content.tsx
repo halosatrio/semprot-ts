@@ -7,30 +7,25 @@ type ParfumProps = {
 const Content = ({ data }: ParfumProps) => {
   return (
     <>
+      <div className="text-center mb-8">
+        <h1 className="font-bold text-3xl my-2">{data?.name}</h1>
+        <p className="font-light text-sm">
+          {data?.brand}
+          {" | "}
+          <span>{data?.type}</span>
+        </p>
+      </div>
       <div className="flex justify-center">
-        <img src={data?.image} alt={data?.name} width={400} />
+        <img
+          src={data?.image}
+          alt={data?.name}
+          width={300}
+          className="border border-gray-500 rounded-xl"
+        />
       </div>
       <div className="my-4 overflow-hidden bg-white shadow sm:rounded-lg">
         <div className="border-t border-gray-200">
           <dl>
-            <div className="bg-gray-50 px-4 py-2 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-6">
-              <dt className="text-sm font-medium text-gray-500">Nama</dt>
-              <dd className="mt-1 text-sm text-gray-900 sm:col-span-2 sm:mt-0">
-                {data?.name}
-              </dd>
-            </div>
-            <div className="bg-white px-4 py-2 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-6">
-              <dt className="text-sm font-medium text-gray-500">Brand</dt>
-              <dd className="mt-1 text-sm text-gray-900 sm:col-span-2 sm:mt-0">
-                {data?.brand}
-              </dd>
-            </div>
-            <div className="bg-gray-50 px-4 py-2 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-6">
-              <dt className="text-sm font-medium text-gray-500">Type</dt>
-              <dd className="mt-1 text-sm text-gray-900 sm:col-span-2 sm:mt-0">
-                {data?.type}
-              </dd>
-            </div>
             <div className="bg-gray-50 px-4 py-2 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-6">
               <dt className="text-sm font-medium text-gray-500">Concentrate</dt>
               <dd className="mt-1 text-sm text-gray-900 sm:col-span-2 sm:mt-0">
