@@ -5,8 +5,9 @@ const Footer = () => {
         <div className="my-3 md:my-0">
           2023 with 🔥 by{" "}
           <a
-            href="https://instagram.com/stariobyau"
+            href="https://bayubit.dev"
             target="_blank"
+            rel="noopener noreferrer"
             className="underline font-bold text-crimson dark:text-pink-pastel hover:text-pink-pastel hover:no-underline"
           >
             Satrio Bayu

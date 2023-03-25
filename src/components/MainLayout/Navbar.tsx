@@ -27,7 +27,7 @@ const Navbar = (props: NavbarProps) => {
             href="/parfum"
             className={props.page == "parfum" ? navItemActive : navItem}
           >
-            semua parfum
+            cari parfum
           </Link>
         </li>
         <li>
