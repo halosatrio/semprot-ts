@@ -25,10 +25,12 @@ const BrandSlugPage = (props: Props) => {
       <div className="grid grid-cols-1 lg:grid-cols-3 gap-4 mt-14">
         {data.map((item) => (
           <Link href={`/parfum/${item.slug}`} key={item.id}>
-            <div className="p-4 border border-gray-500 rounded-md">
-              <img src={item.image} />
-              <h2 className="font-bold text-xl mt-4">{item.name}</h2>
-              <p>{item.type}</p>
+            <div className="p-4 border border-gray-500 rounded-md h-full flex flex-col">
+              <img className="object-fill m-auto" src={item.image} />
+              <div className="flex flex-col flex-auto mt-4 justify-end">
+                <h2 className="font-bold text-xl">{item.name}</h2>
+                <p>{item.type}</p>
+              </div>
             </div>
           </Link>
         ))}

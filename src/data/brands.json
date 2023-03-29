@@ -2,41 +2,55 @@
   {
     "id": "001",
     "name": "HMNS Perfume",
-    "slug": "hmns"
+    "slug": "hmns",
+    "logo_url": "/images/logo-hmns.jpg"
   },
   {
     "id": "002",
     "name": "ONIX Fragrance",
-    "slug": "onix"
+    "slug": "onix",
+    "logo_url": "/images/logo-onix.webp"
   },
   {
     "id": "003",
     "name": "USUAL/SCENTLAB",
-    "slug": "usual"
+    "slug": "usual",
+    "logo_url": "/images/logo-usual.jpg"
   },
   {
     "id": "004",
     "name": "SAFF & Co",
-    "slug": "saffco"
+    "slug": "saffco",
+    "logo_url": "/images/logo-saffnco.jpg"
   },
   {
     "id": "005",
     "name": "Alchemist Fragrance",
-    "slug": "alchemist"
+    "slug": "alchemist",
+    "logo_url": "/images/logo-alchemist.jpeg"
   },
   {
     "id": "006",
     "name": "Sansoe Fragrances",
-    "slug": "sansoe"
+    "slug": "sansoe",
+    "logo_url": "/images/logo-sansoe.webp"
   },
   {
     "id": "007",
     "name": "Carl & Claire",
-    "slug": "carlnclaire"
+    "slug": "carlnclaire",
+    "logo_url": "/images/logo-carl.jpg"
   },
   {
     "id": "008",
     "name": "Mine. Perfumery",
-    "slug": "mine"
+    "slug": "mine",
+    "logo_url": "/images/logo-mine.jpg"
+  },
+  {
+    "id": "009",
+    "name": "House of Medici",
+    "slug": "medici",
+    "logo_url": "/images/logo-medici.jpg"
   }
 ]

@@ -92,7 +92,7 @@
   {
     "id": "hmns-006",
     "slug": "hmns-darker-orgasm-edp",
-    "name": "Darker Shades of Orgasm Eau De Parfum",
+    "name": "Darker Shades of Orgasm",
     "brand": "HMNS Perfume",
     "type": "for her",
     "concentrate": "Eau de Parfume (EDP)",
@@ -128,7 +128,7 @@
   {
     "id": "hmns-008",
     "slug": "hmns-orgasm-absolute",
-    "name": "Absolute Orgsm Eau De Parfum",
+    "name": "Absolute Orgsm",
     "brand": "HMNS Perfume",
     "type": "for her",
     "concentrate": "Eau de Parfume (EDP)",
@@ -1090,5 +1090,203 @@
     "projection": "5/5",
     "image": "/images/mine-tatami.webp",
     "link": "https://www.minedot.com/products/mine-perfumery-mine-dot-tatami-50ml-eau-de-parfum"
+  },
+  {
+    "id": "medici-001",
+    "slug": "medici-paradise",
+    "name": "Paradise Reservoir",
+    "brand": "House of Medici",
+    "type": "for her",
+    "concentrate": "Eau de Parfum (EDP)",
+    "notes": {
+      "top": "Lemon, Neroli, Yuzu",
+      "middle": "Blood Orange, Vetiver Bourbon, Liatrix",
+      "base": "Fig Tree, White Musk, Amber"
+    },
+    "longevity": "-",
+    "sillage": "-",
+    "projection": "-",
+    "image": "/images/medici-paradise.jpg",
+    "link": "https://www.tokopedia.com/houseofmedici/paradise-reservoir-edp-50ml"
+  },
+  {
+    "id": "medici-002",
+    "slug": "medici-devil",
+    "name": "Devil In A New Dress",
+    "brand": "House of Medici",
+    "type": "for her",
+    "concentrate": "Eau de Parfum (EDP)",
+    "notes": {
+      "top": "May Rose, Pink Pepper, Saffron",
+      "middle": "Bulgarian Rose, Agarwood, Incense",
+      "base": "Vanilla, Patchouli, Cocoa Powder"
+    },
+    "longevity": "-",
+    "sillage": "-",
+    "projection": "-",
+    "image": "/images/medici-devil.jpg",
+    "link": "https://www.tokopedia.com/houseofmedici/devil-in-a-new-dress-edp-50ml"
+  },
+  {
+    "id": "medici-003",
+    "slug": "medici-edward",
+    "name": "Infatuation Of Edward Teach",
+    "brand": "House of Medici",
+    "type": "for him",
+    "concentrate": "Eau de Parfum (EDP)",
+    "notes": {
+      "top": "Rum, Ethiopian Coffee",
+      "middle": "Java Coffee Oil, Pipe Tobacco, Jasmine",
+      "base": "Dirty Oud, White Musk, Chestnut"
+    },
+    "longevity": "-",
+    "sillage": "-",
+    "projection": "-",
+    "image": "/images/medici-edward.jpg",
+    "link": "https://www.tokopedia.com/houseofmedici/infatuation-of-edward-teach-edp-50-ml"
+  },
+  {
+    "id": "medici-004",
+    "slug": "medici-agape",
+    "name": "Agape Of Jeanne D'Arc",
+    "brand": "House of Medici",
+    "type": "unisex",
+    "concentrate": "Eau de Parfum (EDP)",
+    "notes": {
+      "top": "Maghrebi Mint Tea, Orange Blossom, Ginger",
+      "middle": "Magnolia,Iris, Cardamom, Basil",
+      "base": "Praline, Bourbon Vanilla, Hay"
+    },
+    "longevity": "-",
+    "sillage": "-",
+    "projection": "-",
+    "image": "/images/medici-agape.jpg",
+    "link": "https://www.tokopedia.com/houseofmedici/agape-of-jeanne-d-arc-edp-50ml"
+  },
+  {
+    "id": "medici-005",
+    "slug": "medici-maria",
+    "name": "Maria De Constantine",
+    "brand": "House of Medici",
+    "type": "unisex",
+    "concentrate": "Eau de Parfum (EDP)",
+    "notes": {
+      "top": "Dark Chocolate, Charcoal, Rum",
+      "middle": "Cherry, Espresso, Sangria",
+      "base": "Cedarwood, Bitter Almond, Musk"
+    },
+    "longevity": "-",
+    "sillage": "-",
+    "projection": "-",
+    "image": "/images/medici-maria.jpg",
+    "link": "https://www.tokopedia.com/houseofmedici/maria-de-constantine-edp-50ml"
+  },
+  {
+    "id": "medici-006",
+    "slug": "medici-fatima",
+    "name": "Fatima La Isabella",
+    "brand": "House of Medici",
+    "type": "unisex",
+    "concentrate": "Eau de Parfum (EDP)",
+    "notes": {
+      "top": "Blue Chamomile, Cinnamon, Cacao",
+      "middle": "Turkish Rose, Tobacco Blossom, White Honey",
+      "base": "White Chocolate, Dried fruits, Musk"
+    },
+    "longevity": "-",
+    "sillage": "-",
+    "projection": "-",
+    "image": "/images/medici-fatima.jpg",
+    "link": "https://www.tokopedia.com/houseofmedici/fatima-la-isabella-edp-50ml"
+  },
+  {
+    "id": "medici-007",
+    "slug": "medici-lilac",
+    "name": "Lilac Wine",
+    "brand": "House of Medici",
+    "type": "unisex",
+    "concentrate": "Eau de Parfum (EDP)",
+    "notes": {
+      "top": "Wine, Saffron, Thyme",
+      "middle": "Lilac, Blueberry, Mocha",
+      "base": "Leather, Heliotrope, Mahogany"
+    },
+    "longevity": "-",
+    "sillage": "-",
+    "projection": "-",
+    "image": "/images/medici-lilac.jpg",
+    "link": "https://www.tokopedia.com/houseofmedici/lilac-wine-edp-50ml"
+  },
+  {
+    "id": "medici-008",
+    "slug": "medici-davinci",
+    "name": "Da Vinci Lost Supper",
+    "brand": "House of Medici",
+    "type": "for him",
+    "concentrate": "Eau de Parfum (EDP)",
+    "notes": {
+      "top": "Cognac Orange, Rosemary",
+      "middle": "Pepper, Honeysuckle, Tomato Leaf, Oak, Cedar",
+      "base": "Vetiver, Tolu Balsam, Benzoin, Marron Glaze"
+    },
+    "longevity": "-",
+    "sillage": "-",
+    "projection": "-",
+    "image": "/images/medici-davinci.jpg",
+    "link": "https://www.tokopedia.com/houseofmedici/da-vinci-lost-supper-edp-50ml"
+  },
+  {
+    "id": "medici-009",
+    "slug": "medici-elizabeth",
+    "name": "Elizabeth Undercover",
+    "brand": "House of Medici",
+    "type": "unisex",
+    "concentrate": "Eau de Parfum (EDP)",
+    "notes": {
+      "top": "Rosella Tea, Sichuan Pepper, Mate, Laurel Leaf",
+      "middle": "Ink, Turkish Rose, Ambrette, Cardamom",
+      "base": "Tobacco Abs, Patchouli, Tonka Bean, Java Vanilla"
+    },
+    "longevity": "-",
+    "sillage": "-",
+    "projection": "-",
+    "image": "/images/medici-elizabeth.jpg",
+    "link": "https://www.tokopedia.com/houseofmedici/elizabeth-undercover-edp-50ml"
+  },
+  {
+    "id": "medici-010",
+    "slug": "medici-daybreak",
+    "name": "Daybreak Angel",
+    "brand": "House of Medici",
+    "type": "unisex",
+    "concentrate": "Eau de Parfum (EDP)",
+    "notes": {
+      "top": "lime, bergamot, bitter orange",
+      "middle": "juniper berries, jasmine, cedar",
+      "base": "musk, ambergris, oakmoss"
+    },
+    "longevity": "-",
+    "sillage": "-",
+    "projection": "-",
+    "image": "/images/medici-daybreak.jpg",
+    "link": "https://www.tokopedia.com/houseofmedici/daybreak-angel-edp-50ml"
+  },
+  {
+    "id": "medici-011",
+    "slug": "medici-khadija",
+    "name": "The Great Khadija",
+    "brand": "House of Medici",
+    "type": "for her",
+    "concentrate": "Eau de Parfum (EDP)",
+    "notes": {
+      "top": "Melon, Cucumber, Saffron",
+      "middle": "Dates, Caramel, Rock Sugar",
+      "base": "Vannila, Cashmir Wood"
+    },
+    "longevity": "-",
+    "sillage": "-",
+    "projection": "-",
+    "image": "/images/medici-khadija.jpg",
+    "link": "https://www.tokopedia.com/houseofmedici/the-great-khadija-edp-50ml"
   }
 ]
