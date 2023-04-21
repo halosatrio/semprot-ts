@@ -52,5 +52,11 @@
     "name": "House of Medici",
     "slug": "medici",
     "logo_url": "/images/logo-medici.jpg"
+  },
+  {
+    "id": "010",
+    "name": "Project 1945",
+    "slug": "1945",
+    "logo_url": "/images/logo-1945.jpg"
   }
 ]

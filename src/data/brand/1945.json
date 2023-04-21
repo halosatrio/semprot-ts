@@ -1,0 +1,128 @@
+[
+  {
+    "id": "1945-001",
+    "slug": "1945-batavia",
+    "name": "The Great Batavia",
+    "brand": "Project 1945",
+    "type": "for him",
+    "concentrate": "Eau de Parfum (EDP)",
+    "notes": {
+      "top": "Apple, Lemon, Watermelon, Spearmint",
+      "middle": "Lavender, Clove Indonesia, Geranium, Elemi",
+      "base": "Patchouli Indonesia, Vanilla, Tonka Bean, Moss"
+    },
+    "longevity": "-",
+    "sillage": "-",
+    "projection": "-",
+    "image": "/images/1945-batavia.jpeg",
+    "link": "https://www.tokopedia.com/project1945/project-1945-the-great-batavia-perfume-edp-parfum-unisex-100ml"
+  },
+  {
+    "id": "1945-002",
+    "slug": "1945-sumba",
+    "name": "Sunset in Sumba",
+    "brand": "Project 1945",
+    "type": "unisex",
+    "concentrate": "Eau de Parfum (EDP)",
+    "notes": {
+      "top": "Mandarin, Red Apple, Cardamom, Elemi",
+      "middle": "Lavender, Incense, Clove Indonesia",
+      "base": "Patchouli Indonesia, Vanilla"
+    },
+    "longevity": "-",
+    "sillage": "-",
+    "projection": "-",
+    "image": "/images/1945-sumba.jpeg",
+    "link": "https://www.tokopedia.com/project1945/project-1945-sunset-in-sumba-perfume-edp-parfum-unisex-100ml"
+  },
+  {
+    "id": "1945-003",
+    "slug": "1945-bamboe",
+    "name": "Bamboe Roencing",
+    "brand": "Project 1945",
+    "type": "unisex",
+    "concentrate": "Eau de Parfum (EDP)",
+    "notes": {
+      "top": "Bergamot, Marine, Green Leaves",
+      "middle": "Freesia, Waterlily, Osmanthus, White Jasmine, Rose",
+      "base": "Musk, Precious Woods, Dry Fruits"
+    },
+    "longevity": "-",
+    "sillage": "-",
+    "projection": "-",
+    "image": "/images/1945-bamboe.jpeg",
+    "link": "https://www.tokopedia.com/project1945/project-1945-bamboe-roencing-perfume-edp-parfum-unisex-100ml"
+  },
+  {
+    "id": "1945-004",
+    "slug": "1945-princess",
+    "name": "Princess of Java",
+    "brand": "Project 1945",
+    "type": "for her",
+    "concentrate": "Eau de Parfum (EDP)",
+    "notes": {
+      "top": "Peach, Green Pear, Bitter Orange",
+      "middle": "Tuberose, Neroli, Jasmine, Orange Blossom",
+      "base": "Vanilla, Sandalwood, Musk, Amber"
+    },
+    "longevity": "-",
+    "sillage": "-",
+    "projection": "-",
+    "image": "/images/1945-princess.jpeg",
+    "link": "https://www.tokopedia.com/project1945/project-1945-princess-of-java-edp-parfum-unisex-100ml"
+  },
+  {
+    "id": "1945-005",
+    "slug": "1945-ubud",
+    "name": "Fields of Ubud",
+    "brand": "Project 1945",
+    "type": "unisex",
+    "concentrate": "Eau de Parfum (EDP)",
+    "notes": {
+      "top": "Ambrette Seeds, Buchu Leaves, Bergamot, Elemi",
+      "middle": "Lavender, Sea Salt, Sage, Dried Fruit",
+      "base": "Vetiver Java, Sandalwood, Oakmoss"
+    },
+    "longevity": "-",
+    "sillage": "-",
+    "projection": "-",
+    "image": "/images/1945-ubud.jpeg",
+    "link": "https://www.tokopedia.com/project1945/project-1945-fields-of-ubud-perfume-edp-parfum-unisex-100ml"
+  },
+  {
+    "id": "1945-006",
+    "slug": "1945-maluku",
+    "name": "Waters of Maluku",
+    "brand": "Project 1945",
+    "type": "unisex",
+    "concentrate": "Eau de Parfum (EDP)",
+    "notes": {
+      "top": "Grapefruit, Carrot, Green Tea",
+      "middle": "Lotus, Peony, Cinnamon",
+      "base": "Clove, Cistus, Incense, Musk"
+    },
+    "longevity": "-",
+    "sillage": "-",
+    "projection": "-",
+    "image": "/images/1945-maluku.jpeg",
+    "link": "https://www.tokopedia.com/project1945/project-1945-waters-of-maluku-perfume-edp-parfum-unisex-100ml"
+  },
+  {
+    "id": "1945-007",
+    "slug": "1945-apresiasi",
+    "name": "Apresiasi",
+    "brand": "Project 1945",
+    "type": "unisex",
+    "concentrate": "Eau de Parfum (EDP)",
+    "notes": {
+      "top": "Bergamot, Ambrette Seed, Orange",
+      "middle": "Neroli, Petitgrain, Musk",
+      "base": "Vetiver, Cedarwood, Amber"
+    },
+    "longevity": "-",
+    "sillage": "-",
+    "projection": "-",
+    "image": "/images/1945-apresiasi.jpeg",
+    "link": "https://www.tokopedia.com/project1945/project-1945-apresiasi-perfume-edp-parfum-unisex-100ml"
+  }
+]
