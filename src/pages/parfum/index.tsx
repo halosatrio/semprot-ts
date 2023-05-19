@@ -1,22 +1,22 @@
+import { useMemo } from "react";
 import MainLayout from "@/components/MainLayout";
+import AllParfumContent from "@/components/AllParfumContent";
 
 import dataAllParfum from "@/data/all-parfum.json";
-import Link from "next/link";
+import { shuffleArray } from "@/utils/shuffle";
 
 const ParfumIndexPage = () => {
+  const shuffledData = useMemo(() => {
+    const shuffledArray = shuffleArray(dataAllParfum);
+    return shuffledArray;
+  }, []);
+
+  // console.log("shuffledData", shuffledData);
+
   return (
     <MainLayout page="parfum">
       <div className="mb-8">parfum index page</div>
-      <div className="grid grid-cols-1 lg:grid-cols-3 gap-4">
-        {dataAllParfum.map((item) => (
-          <Link href={`parfum/${item.slug}`} key={item.id}>
-            <div className="p-4 border border-gray-500 rounded-md">
-              <h2>{item.name}</h2>
-              <p>{item.brand}</p>
-            </div>
-          </Link>
-        ))}
-      </div>
+      <AllParfumContent data={shuffledData} />
     </MainLayout>
   );
 };
