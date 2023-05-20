@@ -48,3 +48,7 @@
   max-height: 100%;
   /*  might be just `height` in this situation, can't remember */
 }
+
+img.custom-gradient {
+  mask-image: linear-gradient(to left, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0));
+}

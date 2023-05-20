@@ -24,8 +24,8 @@ const Navbar = (props: NavbarProps) => {
       <ul className="flex list-none justify-between md:justify-end text-sm sm:text-lg pt-1 font-bold space-x-6 mt-0 md:-mt-0.5">
         <li>
           <Link
-            href="/parfum"
-            className={props.page == "parfum" ? navItemActive : navItem}
+            href="/cari-parfum"
+            className={props.page == "cari-parfum" ? navItemActive : navItem}
           >
             cari parfum
           </Link>

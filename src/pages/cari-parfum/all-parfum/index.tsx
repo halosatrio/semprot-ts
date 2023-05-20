@@ -5,7 +5,7 @@ import AllParfumContent from "@/components/AllParfumContent";
 import dataAllParfum from "@/data/all-parfum.json";
 import { shuffleArray } from "@/utils/shuffle";
 
-const ParfumIndexPage = () => {
+const AllParfumIndexPage = () => {
   const shuffledData = useMemo(() => {
     const shuffledArray = shuffleArray(dataAllParfum);
     return shuffledArray;
@@ -21,4 +21,4 @@ const ParfumIndexPage = () => {
   );
 };
 
-export default ParfumIndexPage;
+export default AllParfumIndexPage;
