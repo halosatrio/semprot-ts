@@ -23,7 +23,7 @@ const AllParfumContent = (props: AllParfumContentProps) => {
     <div className="flex flex-col">
       <div className="grid grid-cols-1 lg:grid-cols-3 gap-4">
         {visibleData.map((item) => (
-          <Link href={`parfum/${item.slug}`} key={item.id}>
+          <Link href={`/parfum/${item.slug}`} key={item.id}>
             <div className="p-4 border border-gray-500 rounded-md brand-grid">
               <img
                 className="object-fill h-60 w-60 m-auto rounded-md"
